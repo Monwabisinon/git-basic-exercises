@@ -1,0 +1,51 @@
+    1  bhbbb
+    2  1s
+    3  1s
+    4  Is
+    5  is
+    6  man is
+    7  man
+    8  cd
+    9  ls
+   10  pwd
+   11  git remote add origin https://github.com/Monwabisinon/git-basic-exercises.git
+   12  git branch -M main
+   13  git push -u origin main
+   14  mkdir git-basic-exercises
+   15  cd git-basic-exercises
+   16  ls -a
+   17  git init
+   18  ls -a
+   19  git status
+   20  touch README.md
+   21  git status
+   22  git log
+   23  git add README.md
+   24  git commit -m "initial commit"
+   25  git comfig --global user.email "nongenamonwabisi@gmail.com"
+   26  git config --global user.email "nongenamonwabisi@gmail.com"
+   27  git config --global user.name "Monwabisi"
+   28  git log
+   29  nano README.md
+   30  nano README.md
+   31  git add README.md
+   32  git commit -m "third commit"
+   33  git log
+   34  git checkout 845937020534864afc881b35c3027aadcce9ea90
+   35  cat README.md
+   36  git checkout main
+   37  git checkout master
+   38  git branch
+   39  git branch milkshake-flavours
+   40  git branch
+   41  nano milkshake.md
+   42  git status
+   43  git add milkshake.md
+   44  git commit -m "initial flavours"
+   45  git log
+   46  git checkout master
+   47  git log
+   48  git branch history
+   49  git checkout history
+   50  git branch
+   51  history > history.txt
